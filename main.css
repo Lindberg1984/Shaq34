@@ -92,3 +92,9 @@ ul li:hover ul li {
 	height: 860px;
 	width: 100%;
 }
+
+@media screen and (max-width: 800px) {
+	ul {
+		width: 100%;
+	}
+}
